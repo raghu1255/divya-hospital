@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Medilab Bootstrap Template - Index</title>
+  <title>Divya Hospital</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -63,7 +63,8 @@
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#departments">Departments</a></li>
-          <li><a class="nav-link scrollto" href="#doctors">Doctors</a></li>
+          <li><a class="nav-link scrollto" href="#doctors">Our Team</a></li>
+		  <li><a class="nav-link scrollto" href="#doctors">CoolSculpting</a></li>
           
             
           </li>
@@ -81,7 +82,7 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container">
       <h1>Welcome to Divya Hospital</h1>
-      <h2>A health is our concern for your family</h2>
+      <h2>Your health is our concern</h2>
       
     </div>
   </section><!-- End Hero -->
@@ -97,7 +98,7 @@
             <div class="content">
               <h3>Why Choose Divya Hospital?</h3>
               <p>
-                Divya Hospital Established by Dr K.Dilip Chandra, is one of the multi-specialty hospital in Shadnagar. Since 25 years, Divya Hospital has provided quality healthcare for the people in their diverse medical needs. We constantly work to provide our patients with the best healthcare service by perfectly blending revolutionary technology, best medical expertise, and advanced procedures. Our comprehensive health care team of specialized doctors, round-the-clock nursing staff and paramedics are equipped with the latest medical innovations and state-of-the-art infrastructure. We provide apt medical diagnosis and treatment for diseases, trauma, and emergencies across every health disciplines.
+                Divya Hospital Established by Dr K.Dilip Chandra, is one of the multi-specialty hospitals in Shadnagar. Since 25 years, Divya Hospital has provided quality healthcare for the people in their diverse medical needs. We constantly work to provide our patients with the best healthcare service by perfectly blending revolutionary technology, best medical expertise, and advanced procedures. Our comprehensive health care team of specialized doctors, round-the-clock nursing staff and paramedics are equipped with the latest medical innovations and state-of-the-art infrastructure. We provide apt medical diagnosis and treatment for diseases, trauma, and emergencies across every health disciplines.
 
               </p>
               <div class="text-center">
@@ -118,8 +119,8 @@
                 <div class="col-xl-4 d-flex align-items-stretch">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>Internal Medicine</h4>
-                    <p>Internal medicine specialists or internists deal with a wide range of health conditions that affect adults. They are considered as expert physicians in diagnosing and treating acute and chronic illnesses</p>
+                    <h4>laparoscopic Surgery</h4>
+                    <p>Laparoscopy is a type of surgical procedure that allows a surgeon to access the inside of the abdomen (tummy) and pelvis without having to make large incisions in the skin.</p>
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch">
@@ -147,27 +148,19 @@
           </div>
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>We provide the highest level of care</h3>
-            <p>Divya Hospitals has 75+ beds, multispeciality, tertiary care hospital with 16-plus specialities. The Hospital has been set up to offer qualitative care to all its patients in a patient-friendly environment with a focus on clinical excellence, patients’ safety & dignity, transparency & affordability and accessibility of quality care to every patient.</p>
-
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">we keep your records safe</a></h4>
-              <p class="description">Medical records hold significant amounts of personal information. we'll properly store records, including contents, privacy policy, and more.</p>
-            </div>
-
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-
-            <div class="icon-box">
-              <div class="icon"><i class="bx bx-atom"></i></div>
-              <h4 class="title"><a href="">Dine Pad</a></h4>
-              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
-            </div>
-
+            <h3>CoolSculpting: Nonsurgical Fat Reduction</h3>
+			<h4 <a href="">What is CoolSculpting?</a></h4>			
+            <p>CoolSculpting is a noninvasive fat reduction procedure that involves no anesthesia, needles, or incisions, It’s based on the principle of cooling subcutaneous fat to the point that the fat cells are destroyed by the cooling process and absorbed by the body, Subcutaneous fat is the layer of fat just under the skin.</p>
+			<h4 <a href="">How does CoolSculpting work?</a></h4>
+			<P>CoolSculpting stems from the science of cryolipolysis, which uses the cellular response to cold to break down fatty tissue. By extracting energy from fat layers, the process causes the fat cells to die gradually while leaving surrounding nerves, muscle, and other tissues unaffected. During the months after treatment, the digested fat cells are sent to the lymphatic system to be filtered out as waste.</P>
+			
+		  
+			<h3>What’s so great about Lasotronix Smart M?</h3>			
+			<p>Lasotronix is the industry leader when it comes to the efficient and portable surgical laser diodes. Developed in Poland, Lasotronix comes with a reputation of providing a long-lasting and high-quality product of European standards. The equipment comes with high precision and advanced technology support from best suppliers across the globe</p>
+			<h4 <a href="">How does CoolSculpting work?</a></h4>
+			
+          
+		
           </div>
         </div>
 
@@ -280,8 +273,50 @@
       </div>
     </section><!-- End Services Section -->
 
-    <!-- ======= Appointment Section ======= -->
-<!-- End Appointment Section -->
+    <!-- ======= CoolSculpting Section ======= -->
+	    <section id="CoolSculpting" class="CoolSculpting">
+      <div class="container-fluid">
+
+        <div class="row">
+          <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
+            
+          </div>
+
+          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h4 class="title"><a href="">CoolSculpting: Nonsurgical Fat Reductionm</a></h4>
+			
+			<h4 class="title"><a href="">What is CoolSculpting?</a></h4>
+            <p><li>CoolSculpting is a noninvasive fat reduction procedure that involves no anesthesia, needles, or incisions.</p>
+			<p><li>It’s based on the principle of cooling subcutaneous fat to the point that the fat cells are destroyed by the cooling process and absorbed by the body.</li></p>
+			<p><li>Subcutaneous fat is the layer of fat just under the skin.</li></p>
+            
+			
+			<div class="icon-box">
+              <div class="icon"><i class="bx bx-gift"></i></div>
+              <h4 class="title"><a href="">How does CoolSculpting work?</a></h4>
+              <p class="description">CoolSculpting stems from the science of cryolipolysis, which uses the cellular response to cold to break down fatty tissue. By extracting energy from fat layers, the process causes the fat cells to die gradually while leaving surrounding nerves, muscle, and other tissues unaffected. During the months after treatment, the digested fat cells are sent to the lymphatic system to be filtered out as waste.</p>
+            </div>
+			
+			
+			<h4 class="title"><a href="">About</a></h4>
+            <p class="description"><li>CoolSculpting is a patented nonsurgical cooling technique used to reduce fat in targeted areas. It’s based on the science of cryolipolysis. Cryolipolysis uses cold temperatures to freeze and destroy fat cells. The procedure was created to address specific areas of stubborn fat not responsive to diet and exercise. It targets fat cells on inner and outer thigh, abdomen, sides, upper arms, and chin.</li></p>
+            
+			
+
+            
+
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-atom"></i></div>
+              <h4 class="title"><a href="">Dine Pad</a></h4>
+              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+<!-- End CoolSculpting Section -->
 
     <!-- ======= Departments Section ======= -->
     <section id="departments" class="departments">
@@ -384,7 +419,7 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Doctors</h2>
+          <h2>Management Team</h2>
                   </div>
 
         <div class="row">
@@ -393,9 +428,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Dr. k.Dilip Chandra</h4>
-                <span>MBBS, MS (General Surgery) osmania </span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>Dr. K.Dilip Chandra</h4>
+                <span>MBBS, MS (General Surgery) Osmania (Proprietor & Head of Administration) </span>
+                <p>General surgery is a surgical specialty that focuses on abdominal contents including the esophagus, stomach, small intestine, large intestine, liver, pancreas, gallbladder, appendix and bile ducts, and often the thyroid gland.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -410,9 +445,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Dr K.Divya Chandrika</h4>
-                <span>MBBS, MS (gynecologist) svs medical college</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>S Krishnaveni</h4>
+                <span>Manager</span>
+                <p>Hospital administrators are responsible for organizing and overseeing the health services and daily activities of a hospital or healthcare facility.</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -427,9 +462,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Cardiology</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <h4>Syed Naseeruddin</h4>
+                <span>In-Charge of laboratories</span>
+                <p>Clinical laboratories are healthcare facilities providing a wide range of laboratory</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -444,9 +479,9 @@
             <div class="member d-flex align-items-start">
               <div class="pic"><img src="assets/img/doctors/doctors-4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>P Raju</h4>
+                <span>In-Charge of pharmacy</span>
+                <p>Pharmacists work in this field are responsible for dispensing of medications, monitoring and reporting drug safety, and preparing budges for medications</p>
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -468,52 +503,52 @@
 
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p></p>
         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Do you perform laprascopic surgeries ? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  Yes we have a laprascopic surgeries.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Do you have ventilator support? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  Yes we have ventilator support, A ventilator is also known as a respirator or breathing machine, is a medical device that provides a person with oxygen when they are unable to breathe on their own.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Do you hava Emergency care 24 hours a day? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                  Yes we hava Emergency care 24 hours a day, 7 days a week, 365 days a year.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Do you have tie up with health insurance companies? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
+                  Yes, we are a network hospital and we have tie up with all the major health insurance companies and TPA's.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Is there a  Facility for COVID-19 patients? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                  Yes we have Facility for COVID-19 patients, ventilator support is also available.
                 </p>
               </div>
             </li>
@@ -707,7 +742,7 @@
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621     " frameborder="0" allowfullscreen></iframe>
 			<!-- https://www.google.com/maps/place/Divya+Hospital+Shadnagar/@17.0689081,78.2038011,20.25z/data=!4m5!3m4!1s0x3bcbc93364444669:0x575f7dcaaa9a271c!8m2!3d17.0688595!4d78.203953 -->
 	  
 	  </div>
@@ -802,7 +837,7 @@
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/ -->
-          Designed by <a href="https://bootstrapmade.com/">Divya Hospital Team</a>
+          Designed by <a>Divya Hospital Team</a>
         </div>
       </div>
       
