@@ -64,17 +64,34 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
 		  
-		  <li class="dropdown"><a href="#"><span>New Arrivals</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="fatloss.html" target="fatloss">Fat loss</a></li>               
-              <li><a href="inner-page.html" target="Laser Treatmet">Laser Treatmet</a></li>
-			  <li><a href="inner-page.html" target="laparoscopic Surgery">laparoscopic Surgery</a></li>
-              <li><a href="inner-page.html" target="ICU Facility">ICU Facility</a></li>
+		  <li class="dropdown"><a href="#"><span>Specialties</span> <i class="bi bi-chevron-down"></i></a>
+            
+			<!--Specialties dropdown list start-->
+			<ul>
+              <li><a href="General Medicine.html" target="General Medicine">General Medicine</a></li>               
+              <li><a href="General Surgery.html" target="General Surgery">General Surgery</a></li>
+			  <li><a href="Cardiology.html" target="Cardiology">Cardiology</a></li>
+              <li><a href="Gynaecology.html" target="Gynaecology">Gynaecology</a></li>
+			  <li><a href="urology.html" target="urology">urology</a></li>
+			  <li><a href="orthopaedic.html" target="orthopaedic">orthopaedic</a></li>
             </ul>
 		  
+		  <!--Specialties dropdown list End-->
 		  
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto" href="#departments">Departments</a></li>
+		  <li class="dropdown"><a href="advance treatment"><span>advance treatment</span> <i class="bi bi-chevron-down"></i></a>
+		  
+		  <!--advance treatment dropdown list start-->
+		  
+		  <ul>
+              <li><a href="fatloss" target="fatloss">Fat Reduction</a></li>               
+              <li><a href="advance treatment.html" target="Laser treatment">Laser treatment</a></li>
+			  <li><a href="advance treatment.html" target="Laparoscopic Surgery">Laparoscopic Surgery</a></li>
+              
+            </ul>
+		  
+		  <!--advance treatment dropdown list End-->
+		  
           <li><a class="nav-link scrollto" href="#doctors">Our Team</a></li>
  	  
           
@@ -786,13 +803,6 @@
     <div class="footer-top">
       <div class="container">
         <div class="row">
-		
-		
-		
-		
-		
-		
-		
 		
         </div>
       </div>
