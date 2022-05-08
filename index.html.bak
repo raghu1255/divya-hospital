@@ -66,7 +66,7 @@
 		  
 		  <li class="dropdown"><a href="#"><span>New Arrivals</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="inner-page.html" target="fatloss">Fat loss</a></li>               
+              <li><a href="fatloss.html" target="fatloss">Fat loss</a></li>               
               <li><a href="inner-page.html" target="Laser Treatmet">Laser Treatmet</a></li>
 			  <li><a href="inner-page.html" target="laparoscopic Surgery">laparoscopic Surgery</a></li>
               <li><a href="inner-page.html" target="ICU Facility">ICU Facility</a></li>
@@ -85,7 +85,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment +91 77027 52092</a>
+      <a class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment +91 77027 52092</a>
 
     </div>
   </header><!-- End Header -->
