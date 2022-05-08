@@ -44,14 +44,7 @@
     <div class="container d-flex justify-content-between">
       <div class="contact-info d-flex align-items-center">
         <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">divyahospital.shadnagar@gmail.com</a>
-        
-		
-		<div id="topbar" class="d-flex align-items-center fixed-top">
-		<div class="contact-info d-flex align-items-center">
-		<i class="bi bi-phone"></i> +91 93475 87795 / +91 77027 52092
-		</div>
-		</div>
-		
+        <i class="bi bi-phone"></i> +91 93475 87795 / +91 77027 52092
       </div>
     </div>
   </div>
