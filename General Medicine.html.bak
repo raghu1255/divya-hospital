@@ -83,8 +83,29 @@
       </div>
     </section><!-- End Breadcrumbs Section -->
 
-	<!--coolSculping images and details -->
+	<!--general medicine images and details -->
+			</div>
+				</div>
+				
+				<div class="col-lg-6 col-md-6">
+                	<div class="main_content">
+					<h2>General Medicine</h2>
+                    <p>The Department of General Medicine is usually  considered the bedrock on which the plethora of other treatments served by  super speciality hospitals is built. At Ozone Hospital, the Department of  General Medicine critically examines a patient's general health care and 
+  prescribes the next course of  medical assistance to the patients.</p>
+                    <p> The department acts as the most  crucial link connecting all other departments and specialities in the hospital.  It has a constant meticulous assistance from other specialities
+                      departments.</p>
+                    
+                    <p>Our general medicine department's  highly qualified and acclaimed team of doctors with experience in handling a  comprehensive sphere of illnesses refer the patients to the required  super-specialist department.</p>
+                    <p>What makes Ozone Hospital different  from others is the team's specialisation in:</p>
+                    <ol>
+                      <li>Clinical diagnosis</li>
+                      <li>Treatment of persistent health  issues</li>
+                      <li>Maintaining adult wellbeing</li>
+                      <li>Prevention of diseases.</li>
+                    </ol>
 
+					</div>
+				</div>
     
   
    <!-- ======= CoolSculpting & Lasotronix Smart M Section ======= -->
@@ -115,7 +136,7 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section><!-- End About Section coolSculping -->
   
   
 
