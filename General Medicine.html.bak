@@ -84,7 +84,30 @@
     </section><!-- End Breadcrumbs Section -->
 
 	<!--general medicine images and details -->
-			</div>
+			<section id="single_Service" class="sec-padding">
+		<div class="container">
+			<div class="row">
+			
+				<div class="col-lg-3 col-md-3">
+					<div class="service_sideber">
+
+						<div class="services_lis">
+							<ul role="tablist">
+								<li class="active"><a href="general-medicine.php">General Medicine</a></li>
+                                <li><a href="general-surgery.php">General Surgery</a></li>
+                                <li><a href="orthopedics.php">Orthopedics</a></li>
+                                <li><a href="gynecology.php">Gynecology</a></li>
+                                <li><a href="paediatrics.php">Paediatrics</a></li>									
+                                <li><a href="anaesthesia-pain-management.php">Anaesthesia & Pain Management</a></li>
+                                <li><a href="dental.php">Dental</a></li>
+                                <li><a href="ent.php">E.N.T.</a></li>
+							</ul>
+						</div>
+
+						
+
+
+					</div>
 				</div>
 				
 				<div class="col-lg-6 col-md-6">
@@ -106,6 +129,42 @@
 
 					</div>
 				</div>
+                
+     <!--<img class="image1" src="img/doctors/bg.png" />-->
+                    <img class="image2" src="img/doctors/indrasen_reddy_physician.jpg" />
+                                                    
+                        <div class="ndesig">
+                          <p class="doctor_name">Dr. Indrasen Reddy K </p>
+                          <p class="edu_desig">
+                              MBBS, DNB, Internal Medicine&nbsp;<br>
+                              General Medicine&nbsp;<br>
+                           </p>
+                           </div>
+                         </div>
+                       </div>
+                      </div>
+   
+                </div>
+                
+			</div>
+		</div>
+	</section>
+    
+<section class="footer-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-9 col-sm-9">
+                <p>For 24x7 emergency and medical services</p>
+				<p>Call: Kothapet +91 4022 108 108; Alwal +91 4024 400 108</p>
+            </div>
+            <div class="col-md-3 col-sm-3">
+                <div style="padding: 13px 21px 13px 29px; object-fit: contain; border-radius: 25px; background-color: #ffffff;" align="center">
+                    <a href="book-appointment.php" style="font-family: Raleway; font-size: 20px; font-weight: 500; font-stretch: normal; font-style: normal; line-height: normal;  letter-spacing: normal; text-align: center; color: #184a64;">Click for appointment</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
     
   
    <!-- ======= CoolSculpting & Lasotronix Smart M Section ======= -->
