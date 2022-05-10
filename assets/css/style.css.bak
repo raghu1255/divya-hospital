@@ -1052,12 +1052,6 @@ section {
 .doctors .member .dilip {
   padding-left: 30px;
 }
-.dr-dilip {
-	width: 300px;
-}
-
-
-<!--end my image-->
 
 .doctors .member h4 {
   font-weight: 700;

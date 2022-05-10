@@ -61,49 +61,9 @@
 
       <h1 class="logo me-auto"><a href="index.html">Divya Hospital</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
-        <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-		  
-		  <li class="dropdown"><a href="#"><span>Specialties</span> <i class="bi bi-chevron-down"></i></a>
-            
-			<!--Specialties dropdown list start-->
-			<ul>
-              <li><a href="General Medicine.html" target="General Medicine">General Medicine</a></li>               
-              <li><a href="General Surgery.html" target="General Surgery">General Surgery</a></li>
-			  <li><a href="Cardiology.html" target="Cardiology">Cardiology</a></li>
-              <li><a href="Gynaecology.html" target="Gynaecology">Gynaecology</a></li>
-			  <li><a href="urology.html" target="urology">urology</a></li>
-			  <li><a href="orthopaedic.html" target="orthopaedic">orthopaedic</a></li>
-            </ul>
-		  
-		  <!--Specialties dropdown list End-->
-		  
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-		  <li class="dropdown"><a href="advance-treatment.html"><span>advance treatment</span> <i class="bi bi-chevron-down"></i></a>
-		  
-		  <!--advance treatment dropdown list start-->
-		  
-		  <ul>
-              <li><a href="advance-treatment.html" target="fatloss">Fat Reduction</a></li>               
-              <li><a href="advance-treatment.html" target="Laser treatment">Laser treatment</a></li>
-			  <li><a href="advance-treatment.html" target="Laparoscopic Surgery">Laparoscopic Surgery</a></li>
-              
-            </ul>
-		  
-		  <!--advance treatment dropdown list End-->
-		  
-          <li><a class="nav-link scrollto" href="#doctors">Our Team</a></li>
- 	  
-          
-            
-          </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+      <!-- .navbar -->
 
       <a class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment +91 77027 52092</a>
 
@@ -117,42 +77,43 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h3><a href="#">General Medicine</a></h3>		  
+          <h3>Fat Loss</h3>		  
         </div>
 
       </div>
     </section><!-- End Breadcrumbs Section -->
 
-
-
-
-
-
-			<!--	General medicine  tab section -->			
+					
 				
-				<section id="single_Service" class="sec-padding">
-		<div class="container">
-			<div class="row">
-			
-				<div class="col-lg-3 col-md-3">
-					<div class="service_sideber">
-
-						
-
-						
-
-
+				
+				
+				 <!--<img class="image1" src="img/doctors/bg.png" />-->
+				 <div class="container">
+				 <div class="pic"><img src="assets/img/doctors/doctors-5" class="ndesig" alt=""></div>
+				 
+				<div class="ndesig">
+                          <p class="doctor_name">Dr. Indrasen Reddy K </p>
+                          <p class="edu_desig">
+                              MBBS, DNB, Internal Medicine&nbsp;<br>
+                              General Medicine&nbsp;<br>
+                           </p>
+                        </div>
 					</div>
 				</div>
 				
+				
+			<!--	General medicine  tab section -->			
+				
+				<section id="single_Service" class="sec-padding">
+		
+			<div class="row">
 				<div class="col-lg-6 col-md-6">
                 	<div class="main_content">
-					<h2><a href="#">General Medicine</a></h2>
-                    <p>The Department of General Medicine is usually  considered the bedrock on which the plethora of other treatments served by  super speciality hospitals is built. At Ozone Hospital, the Department of  General Medicine critically examines a patient's general health care and 
-  prescribes the next course of  medical assistance to the patients.</p>
-                    <p> The department acts as the most  crucial link connecting all other departments and specialities in the hospital.  It has a constant meticulous assistance from other specialities
-                      departments.</p>
-                    
+					
+					
+					<h2>General Medicine</h2>
+                    <p>The Department of General Medicine is usually  considered the bedrock on which the plethora of other treatments served by  super speciality hospitals is built. At Ozone Hospital, the Department of  General Medicine critically examines a patient's general health care and prescribes the next course of  medical assistance to the patients.</p>
+                    <p> The department acts as the most  crucial link connecting all other departments and specialities in the hospital.  It has a constant meticulous assistance from other specialities departments.</p>         
                     <p>Our general medicine department's  highly qualified and acclaimed team of doctors with experience in handling a  comprehensive sphere of illnesses refer the patients to the required  super-specialist department.</p>
                     <p>What makes Ozone Hospital different  from others is the team's specialisation in:</p>
                     <ol>
@@ -165,31 +126,12 @@
 					</div>
 				</div>
                 
-                <div class="col-lg-3 col-md-3">
-                	
-					<div class="grid isotope-grid-main-section speciality-doctors">
-                                                            <div class="single_doctor item element-item text-center kothapet">
-                                        <div class="img-box1">
-                                            <div class="parent">
-				
-				
-				<!--< start animi doctor src="assets/img/doctors/doctor-animi.png" />-->
-            <img src="assets/img/doctors/doctor.png" class="img-thumbnail" alt="doctor">                                                   
-                 <div class="ndesig">
-                    <p class="doctor_name">Dr. K Dilip Chandra</p>
-                        <p class="edu_desig">
-                            MBBS, MS, Internal Medicine&nbsp;<br>
-                            General Medicine&nbsp;<br>
-                         </p>
-							</div>
-                          </div>
-                       </div>
-                      </div>
-                     <div class="single_doctor item element-item text-center kothapet">
-                   <div class="img-box1">
-                  <div class="parent">
-                 <!--< End animi doctor src="assets/img/doctors/doctor-animi.png" />-->   
-		</div>
+						
+   
+                </div>
+                
+			
+	
 	</section>
     
 
