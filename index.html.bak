@@ -195,7 +195,9 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section>
+	
+	<!-- End About Section -->
 
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">
@@ -305,7 +307,7 @@
 
     <!-- ======= CoolSculpting Section ======= -->
 	    
-<!-- End CoolSculpting Section -->
+     <!-- End CoolSculpting Section -->
 
     <!-- ======= Departments Section ======= -->
     <section id="departments" class="departments">
@@ -313,7 +315,7 @@
 
         <div class="section-title">
           <h2>Departments</h2>
-          <p>They are: medicine, surgery, gynaecology, paediatrics, orthopaedics, neurology, cardiology, plastic surgery, infectious disease etc. medical superintendent is a doctor who has control over all medical department.</p>
+          <p>They are: medicine, surgery, gynaecology, paediatrics, orthopaedics, neurology, cardiology, infectious disease.</p>
         </div>
 
         <div class="row gy-4">
@@ -341,7 +343,7 @@
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>General Surgeon</h3>
                     <p class="fst-italic">20 years experience of General Surgery.</p>
-                    <p>The dept of General Surgery is manned by Senior Consultant Surgeons, who are highly qualified and well trained in India and they are well supported by resident doctors and registrars to take care of the admitted patients in the hospital.</p>
+                    <p>The dept. of General Surgery is manned by Senior Consultant Surgeons, who are highly qualified and well trained in India and they are well supported by resident doctors and registrars to take care of the admitted patients in the hospital.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
