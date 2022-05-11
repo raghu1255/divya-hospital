@@ -85,8 +85,8 @@
 		  
 		  <ul>
               <li><a href="advance-treatment.html" target="fatloss">Fat Reduction</a></li>               
-              <li><a href="advance treatment.html" target="Laser treatment">Laser treatment</a></li>
-			  <li><a href="advance treatment.html" target="Laparoscopic Surgery">Laparoscopic Surgery</a></li>
+              <li><a href="advance-treatment.html" target="Laser treatment">Laser treatment</a></li>
+			  <li><a href="advance-treatment.html" target="Laparoscopic Surgery">Laparoscopic Surgery</a></li>
               
             </ul>
 		  
@@ -341,7 +341,7 @@
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3>General Surgeon</h3>
                     <p class="fst-italic">20 years experience of General Surgery.</p>
-                    <p>The dept. of General Surgery is manned by Senior Consultant Surgeons, who are highly qualified and well trained in India and they are well supported by resident doctors and registrars to take care of the admitted patients in the hospital.</p>
+                    <p>The dept of General Surgery is manned by Senior Consultant Surgeons, who are highly qualified and well trained in India and they are well supported by resident doctors and registrars to take care of the admitted patients in the hospital.</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
@@ -403,7 +403,7 @@
       </div>
     </section><!-- End Departments Section -->
 
-    <!-- ======= Doctors Section ======= -->
+    <!-- ======= Our Team Section ======= -->
     <section id="doctors" class="doctors">
       <div class="container">
 
@@ -484,7 +484,7 @@
         </div>
 
       </div>
-    </section><!-- End Doctors Section -->
+    </section><!-- End Our team Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">

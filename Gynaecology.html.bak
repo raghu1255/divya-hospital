@@ -117,7 +117,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h3><a href="#">Cardiology</a></h3>		  
+          <h3><a href="#">Gynaecology</a></h3>		  
         </div>
 
       </div>
@@ -139,39 +139,31 @@
 				<div class="col-lg-3 col-md-3">
 					<div class="service_sideber">
 
-			<!--hear images start---->
-
 					<div class="genmed">
-					
-					<img src="assets/img/gallery/heart-surgery2.jpg" alt="general medicines" class="img-thumbnail">
-					<img src="assets/img/gallery/heart-surgery3.jpg" alt="general medicines" class="img-thumbnail">
-					<img src="assets/img/gallery/heart-surgery4.jpg" alt="general medicines" class="img-thumbnail">
+					<img src="assets/img/gallery/Pregnant1.jpg" alt="general medicines" class="img-thumbnail">
+					<img src="assets/img/gallery/Pregnant2.jpg" alt="general medicines" class="img-thumbnail">
+					<img src="assets/img/gallery/Pregnant3.jpg" alt="general medicines" class="img-thumbnail">
 					</div>
-
-			<!--hear images start---->
 
 					</div>
 				</div>
 				
 				<div class="col-lg-6 col-md-6">
                 	<div class="main_content">
-					<h2><a href="#">What is cardiology?</a></h2>
-                    <p>Cardiology is a medical specialty and a branch of internal medicine concerned with disorders of the heart. It deals with the diagnosis and treatment of such conditions as congenital heart defects, coronary artery disease, electrophysiology, heart failure and valvular heart disease.</p>
-                    <p>Divya Hospital Cardiology Team offers comprehensive, multi-disciplinary programs for the prevention, diagnosis, and treatment of Cardiological and Cardiothoracic conditions. The Institute is a synergy of a state-of-the-art facility, top doctors, technology, best practices in non-invasive, interventional and surgical procedures and comprehensive emergency services. Innovative and scientifically based treatments for heart disease have always been the hallmark of Divya Heart and have ranked it as one of the best heart hospitals in Shadnagar.</p>
+					<h2><a href="#">Gynaecology</a></h2>
+                    <p>Gynaecology or gynecology is the area of medicine that involves the treatment of women's diseases, especially those of the reproductive organs. It is often paired with the field of obstetrics, forming the combined area of obstetrics and gynecology. The term comes from Greek and means "the science of women".</p>
+                    <p>Divya Hospital's  women and childcare unit provides comprehensive services ranging from general woman’s health checks, urogynaecology and preventive care to a wide range of gynaecological issues that require medical and surgical care.</p>
                     <div>
-					<p><a href="#">Our Cardiology Team specialisation in:</a></p>
+					<p><a href="#">Our Gynaecology Team specialisation in:</a></p>
                     </div>
 					<ol>
-                      <li>Coronary Artery Disease</li>
-                      <li>Heart Arrhythmias</li>
-                      <li>Heart Arrhythmias</li>
-                      <li>Heart Valve Disease</li>
-					  <li>Pericardial Disease</li>
-                      <li>Pericardial Disease</li>
-                      <li>Congenital Heart Disease</li>
-                      <li>Heart Disease</li>
-                      <li>Heart Valve Disease</li>
-                      <li>Congenital Heart Disease</li>
+                      <li>Gynaecological health check-up</li>
+                      <li>Routine women’s check-up</li>
+                      <li>Diagnostic laparoscopy</li>
+                      <li>Ovarian cysts removal</li>
+					  <li>Ovarian cysts removal</li>
+                      <li>Diagnostic laparoscopy</li>
+                      
                     </ol>
 
 					</div>
@@ -198,8 +190,8 @@
                  <div class="ndesig">
                     <p class="doctor_name">Dr. aaaaaaaa</p>
                         <p class="edu_desig">
-                            MBBS, MS, Cardiology&nbsp;<br>
-                            &nbsp;<br>
+                            MBBS, MS, Internal Medicine&nbsp;<br>
+                            General Medicine&nbsp;<br>
                          </p>
 							</div>
                           </div>
