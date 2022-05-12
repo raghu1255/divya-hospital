@@ -63,12 +63,96 @@
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
+		<nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+		  
+		  <li class="dropdown"><a href="#"><span>Specialties</span> <i class="bi bi-chevron-down"></i></a>
+            
+			<!--Specialties dropdown list start-->
+			<ul>
+              <li><a href="General Medicine.html" target="General Medicine">General Medicine</a></li>               
+              <li><a href="General Surgery.html" target="General Surgery">General Surgery</a></li>
+			  <li><a href="Cardiology.html" target="Cardiology">Cardiology</a></li>
+              <li><a href="Gynaecology.html" target="Gynaecology">Gynaecology</a></li>
+			  <li><a href="urology.html" target="urology">urology</a></li>
+			  <li><a href="orthopaedic.html" target="orthopaedic">orthopaedic</a></li>
+            </ul>
+		  
+		  <!--Specialties dropdown list End-->
+		  
+          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+		  <li class="dropdown"><a href="advance-treatment.html"><span>advance treatment</span> <i class="bi bi-chevron-down"></i></a>
+		  
+		  <!--advance treatment dropdown list start-->
+		  
+		  <ul>
+              <li><a href="advance-treatment.html" target="fatloss">Fat Reduction</a></li>               
+              <li><a href="advance-treatment.html" target="Laser treatment">Laser treatment</a></li>
+			  <li><a href="advance-treatment.html" target="Laparoscopic Surgery">Laparoscopic Surgery</a></li>
+              
+            </ul>
+		  
+		  <!--advance treatment dropdown list End-->
+		  
+          <li><a class="nav-link scrollto" href="#doctors">Our Team</a></li>
+ 	  
+          
+            
+          </li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+
       <!-- .navbar -->
 
       <a class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment +91 77027 52092</a>
 
     </div>
   </header><!-- End Header -->
+
+		<script>
+            var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?10959';
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = url;
+            var options = {
+                "enabled": true,
+                "chatButtonSetting": {
+                    "backgroundColor": "#4dc247",
+                    "ctaText": "",
+                    "borderRadius": "50",
+                    "marginLeft": "0",
+                    "marginBottom": "65",
+                    "marginRight": "19",
+                    "position": "right"
+                },
+                "brandSetting": {
+                    "brandName": "Divya Hospitals",
+                    "brandSubTitle": "Your health is our concern!",
+                    "brandImg": "assets/img/gallery/whats-pro-customer-.png",
+                    "welcomeText": "Hi! Get in touch with one of our member for more information.",
+                    "messageText": "Hello, Can you help me out with some more information?",
+                    "backgroundColor": "#4dc247",
+                    "ctaText": "Start Chat",
+                    "borderRadius": "25",
+                    "autoShow": false,
+                    "phoneNumber": "919014757470"
+                }
+            };
+            s.onload = function () {
+                CreateWhatsappChatWidget(options);
+            };
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        </script>
+
+
+
+
+		<!--===========what's app welcome message ==================== -->
 
   <main id="main">
 

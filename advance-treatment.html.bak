@@ -61,9 +61,9 @@
 
       <h1 class="logo me-auto"><a href="index.html">Divya Hospital</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
-      <nav id="navbar" class="navbar order-last order-lg-0">
+		<nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
 		  
@@ -103,17 +103,17 @@
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
+      </nav>
+
+      <!-- .navbar -->
 
       <a class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment +91 77027 52092</a>
 
     </div>
   </header><!-- End Header -->
 
-	<!--===========what's app welcome message ==================== -->
-
-	<script>
-            var url = 'https://wati-integration-service.clare.ai/ShopifyWidget/shopifyWidget.js?10959';
+		<script>
+            var url = '';
             var s = document.createElement('script');
             s.type = 'text/javascript';
             s.async = true;
@@ -132,7 +132,7 @@
                 "brandSetting": {
                     "brandName": "Divya Hospitals",
                     "brandSubTitle": "Your health is our concern!",
-                    "brandImg": "http://ozonehospitals.com/img/Ozone_logo_96X96.jpg",
+                    "brandImg": "assets/img/gallery/whats-pro-customer-.png",
                     "welcomeText": "Hi! Get in touch with one of our member for more information.",
                     "messageText": "Hello, Can you help me out with some more information?",
                     "backgroundColor": "#4dc247",
@@ -154,7 +154,6 @@
 
 		<!--===========what's app welcome message ==================== -->
 
-
   <main id="main">
 
     <!-- ======= Breadcrumbs Section ======= -->
@@ -162,105 +161,45 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h3><a href="#">Department of Cardiology</a></h3>		  
+          <h3>Fat Loss</h3>		  
         </div>
 
       </div>
     </section><!-- End Breadcrumbs Section -->
 
+	<!--coolSculping images and details -->
 
+    
+  
+   <!-- ======= CoolSculpting & Lasotronix Smart M Section ======= -->
+    <section id="about" class="about">
+      <div class="container-fluid">
 
+        <div class="row">
+          <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
+            
+          </div>
 
-
-		
-
-
-			<!--	General medicine  tab section -->			
-				
-				<section id="single_Service" class="sec-padding">
-		<div class="container">
-			<div class="row">
+          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3>CoolSculpting: Nonsurgical Fat Reduction</h3>
+			<h4 <a href="">What is CoolSculpting?</a></h4>			
+            <p>CoolSculpting is a noninvasive fat reduction procedure that involves no anesthesia, needles, or incisions. It’s based on the principle of cooling subcutaneous fat to the point that the fat cells are destroyed by the cooling process and absorbed by the body. Subcutaneous fat is the layer of fat just under the skin.</p>
+			<h4 <a href="">How does CoolSculpting work?</a></h4>
+			<P>CoolSculpting stems from the science of cryolipolysis, which uses the cellular response to cold to break down fatty tissue. By extracting energy from fat layers, the process causes the fat cells to die gradually while leaving surrounding nerves, muscle, and other tissues unaffected. During the months after treatment, the digested fat cells are sent to the lymphatic system to be filtered out as waste.</P>
 			
-				<div class="col-lg-3 col-md-3">
-					<div class="service_sideber">
+		  
+			<h3>What’s so great about Lasotronix Smart M?</h3>			
+			<p>Lasotronix is the industry leader when it comes to the efficient and portable surgical laser diodes. Developed in Poland, Lasotronix comes with a reputation of providing a long-lasting and high-quality product of European standards. The equipment comes with high precision and advanced technology support from best suppliers across the globe</p>
+			<h4 <a href="">How does CoolSculpting work?</a></h4>
+			<p>CoolSculpting, or cryolipolysis, is a cosmetic treatment that removes excess fat in stubborn areas. It works by freezing fat cells, killing and breaking them down in the process. CoolSculpting is a non-invasive procedure, meaning it does not involve cuts, anesthesia, or instruments entering the body.</p>
+			
+          
+		
+          </div>
+        </div>
 
-			<!--hear images start---->
-
-					<div class="genmed">
-					
-					<img src="assets/img/gallery/heart-surgery2.jpg" alt="general medicines" class="img-thumbnail">
-					<img src="assets/img/gallery/heart-surgery3.jpg" alt="general medicines" class="img-thumbnail">
-					<img src="assets/img/gallery/heart-surgery4.jpg" alt="general medicines" class="img-thumbnail">
-					</div>
-
-			<!--hear images start---->
-
-					</div>
-				</div>
-				
-				<div class="col-lg-6 col-md-6">
-                	<div class="main_content">
-					<h2><a href="#">What is cardiology?</a></h2>
-                    <p>Cardiology is a medical specialty and a branch of internal medicine concerned with disorders of the heart. It deals with the diagnosis and treatment of such conditions as congenital heart defects, coronary artery disease, electrophysiology, heart failure and valvular heart disease.</p>
-                    <p>Divya Hospital Cardiology Team offers comprehensive, multi-disciplinary programs for the prevention, diagnosis, and treatment of Cardiological and Cardiothoracic conditions. The Institute is a synergy of a state-of-the-art facility, top doctors, technology, best practices in non-invasive, interventional and surgical procedures and comprehensive emergency services. Innovative and scientifically based treatments for heart disease have always been the hallmark of Divya Heart and have ranked it as one of the best heart hospitals in Shadnagar.</p>
-                    <div>
-					<p><a href="#">Our Cardiology Team specialisation in:</a></p>
-                    </div>
-					<ol>
-                      <li>Coronary Artery Disease</li>
-                      <li>Heart Arrhythmias</li>
-                      <li>Heart Arrhythmias</li>
-                      <li>Heart Valve Disease</li>
-					  <li>Pericardial Disease</li>
-                      <li>Pericardial Disease</li>
-                      <li>Congenital Heart Disease</li>
-                      <li>Heart Disease</li>
-                      <li>Heart Valve Disease</li>
-                      <li>Congenital Heart Disease</li>
-                    </ol>
-
-					</div>
-				</div>
-				
-				
-				
-				
-
-                
-                <div class="col-lg-3 col-md-3">
-                	
-					<div class="grid isotope-grid-main-section speciality-doctors">
-                                                            <div class="single_doctor item element-item text-center kothapet">
-                                        <div class="img-box1">
-                                            <div class="parent">
-				
-				
-				
-				<!--< start animi doctor src="assets/img/doctors/doctor-animi.png" />-->
-				
-            <img src="assets/img/doctors/doctor.png" class="img-thumbnail" alt="doctor"> 
-						
-                 <div class="ndesig">
-                    <p class="doctor_name">Dr. aaaaaaaa</p>
-                        <p class="edu_desig">
-                            MBBS, MS, Cardiology&nbsp;<br>
-                            &nbsp;<br>
-                         </p>
-							</div>
-                          </div>
-                       </div>
-                      </div>
-                     <div class="single_doctor item element-item text-center kothapet">
-                   <div class="img-box1">
-                  <div class="parent">
-                 <!--< End animi doctor src="assets/img/doctors/doctor-animi.png" />-->   
-		</div>
-	</section>
-    
-
-    
-
-   
+      </div>
+    </section><!-- End About Section -->
   
   
 
