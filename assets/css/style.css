@@ -1059,6 +1059,24 @@ section {
   padding-left: 30px;
 }
 
+.carousel-inner {
+
+max-height: 400px;
+
+img {
+
+max-height: 400px;
+
+}
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 <!--end my image-->
 

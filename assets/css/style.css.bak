@@ -1055,9 +1055,22 @@ section {
 .dr-dilip {
 	width: 300px;
 }
-.genmed {
-	width: 300px;
+.doctors .member .genmed {
+  padding-left: 30px;
 }
+
+.carousel-inner {
+
+max-height: 400px;
+
+img {
+
+max-height: 400px;
+
+}
+
+}
+
 
 
 <!--end my image-->
