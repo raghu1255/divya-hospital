@@ -43,7 +43,6 @@
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex justify-content-between">
 	  <div class="contact-info d-flex align-items-center"> 
-	  
 	  <p class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment +91 77027 52092</p>		
 	  </div>
     </div>
