@@ -81,7 +81,7 @@
 		  
 		  <!--Specialties dropdown list End-->
 		  
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="index.html">Services</a></li>
 		  <li class="dropdown"><a href="advance-treatment.html"><span>advance treatment</span> <i class="bi bi-chevron-down"></i></a>
 		  
 		  <!--advance treatment dropdown list start-->
@@ -95,12 +95,12 @@
 		  
 		  <!--advance treatment dropdown list End-->
 		  
-          <li><a class="nav-link scrollto" href="#doctors">Our Team</a></li>
+          <li><a class="nav-link scrollto" href="index.html">Our Team</a></li>
  	  
           
             
           </li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="nav-link scrollto" href="index.html">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -163,11 +163,12 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h3>Fat Loss</h3>		  
+          <h3>Fat Reduction</h3>		  
         </div>
 
       </div>
-    </section><!-- End Breadcrumbs Section -->
+    </section>
+	<!-- End Breadcrumbs Section -->
 
 	<!--coolSculping images and details -->
 <div class='myDiv'>
@@ -189,51 +190,90 @@
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/img/gallery/gen-med-1.jpg" alt="Los Angeles"  class="center" style="width:90%">
-      <div class="carousel-caption">
-        <h3>Los Angeles</h3>
-        <p>We had such a great time in LA!</p>
+      <img src="assets/img/gallery/coolsculpting1.jpg" alt="Los Angeles"  class="center" style="width:90%">
+      <div class="carousel-caption">       
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/img/gallery/gen-med-1.jpg" alt="Chicago" class="center" style="width:90%">
-      <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
+      <img src="assets/img/gallery/coolsculpting2.jpg" alt="Chicago" class="center" style="width:90%">
+      <div class="carousel-caption">        
       </div> 
     </div>
     <div class="carousel-item">
-      <img src="assets/img/gallery/gen-med-1.jpg" alt="New York" class="center" style="width:90%">
-      <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
+      <img src="assets/img/gallery/coolsculpting3.jpg" alt="New York" class="center" style="width:90%">
+      <div class="carousel-caption">        
       </div>  
     </div>
   </div>
-  <!--End slider-->
+  <!--==============End slider========================-->
     
+	
+	<!-- ======= CoolSculpting & Lasotronix Smart M Section ======= -->
+	
+   
+  <div style="float: left">
+
+</div>
+<div style="display:inline-block;">
+<p>
+</div>
+
+          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3>CoolSculpting: Nonsurgical Fat Reduction</h3>
+			
+			<h4> <a href="">What is CoolSculpting?</a></h4>			
+            <p>CoolSculpting is a noninvasive fat reduction procedure that involves no anesthesia, needles, or incisions. It’s based on the principle of cooling subcutaneous fat to the point that the fat cells are destroyed by the cooling process and absorbed by the body. Subcutaneous fat is the layer of fat just under the skin.</p>
+			<h4> <a href="">Body Sculpting Areas?</a></h4>
+			<P>CoolSculpting stems from the science of cryolipolysis, which uses the cellular response to cold to break down fatty tissue. By extracting energy from fat layers, the process causes the fat cells to die gradually while leaving surrounding nerves, muscle, and other tissues unaffected. During the months after treatment, the digested fat cells are sent to the lymphatic system to be filtered out as waste.</P>
+			<h3><a href="">What’s so great about Lasotronix Smart M?</a></h3>			
+			<p>Lasotronix is the industry leader when it comes to the efficient and portable surgical laser diodes. Developed in Poland, Lasotronix comes with a reputation of providing a long-lasting and high-quality product of European standards. The equipment comes with high precision and advanced technology support from best suppliers across the globe</p>
+			<h4> <a href="">Body Sculpting Areas?</a></h4>
+			<p>Body sculpting with CoolSculpting is done for abdomen, flank, thigh inner and outer, back fat, underneath the buttocks, double chin etc.</p>
+			
+          
+		
+          </div>
+</p>
+</div>
   
-   <!-- ======= CoolSculpting & Lasotronix Smart M Section ======= -->
-    <section id="about" class="about">
+
+		<!-- ======= CoolSculpting Facts to cost start ======= -->
+  
+   
+    <section id="" class="">
       <div class="container-fluid">
 
         <div class="row">
           <div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch position-relative">
-            
+            <img src="assets/img/gallery/coolsculpting4.png" alt="img" class="about"/>
           </div>
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
-            <h3>CoolSculpting: Nonsurgical Fat Reduction</h3>
-			<h4 <a href="">What is CoolSculpting?</a></h4>			
-            <p>CoolSculpting is a noninvasive fat reduction procedure that involves no anesthesia, needles, or incisions. It’s based on the principle of cooling subcutaneous fat to the point that the fat cells are destroyed by the cooling process and absorbed by the body. Subcutaneous fat is the layer of fat just under the skin.</p>
-			<h4 <a href="">How does CoolSculpting work?</a></h4>
-			<P>CoolSculpting stems from the science of cryolipolysis, which uses the cellular response to cold to break down fatty tissue. By extracting energy from fat layers, the process causes the fat cells to die gradually while leaving surrounding nerves, muscle, and other tissues unaffected. During the months after treatment, the digested fat cells are sent to the lymphatic system to be filtered out as waste.</P>
+            <h3><a href="">Cool Sculpting Facts</a></h3>						
+            <p>
+				<li>Till date there have been more than 7 million Coolsculpting treatments done worldwide.&nbsp;<br></li>
+				<li>This does not require any anesthesia, no surgery and no downtime.&nbsp;<br></li>
+				<li>Cool Sculpting is not to be confused with weight-loss, but fat freezing and reduction through cryolipolysis leading to body sculpting.&nbsp;<br></li>
+				<li>You can target multiple areas in a single session.&nbsp;<br></li>
+				<li>One session of Coolsculpting on a particular area is generally called a cycle.&nbsp;<br></li>
+				<li>The Bombay Skin Clinic is one of the very few leading clinics to offer CoolSculpting in Mumbai.</li>
+			</p>
+			<h4> <a href="">Cool Sculpting procedure?</a></h4>
+			<P>
+				<li>CoolSculpting is a noninvasive medical procedure that’s also known as cryolipolysis.</li>
+				<li>It helps remove extra fat cells from underneath your skin without surgery.</li>
+				<li>During a CoolSculpting session, a plastic surgeon or other provider trained in CoolSculpting uses a special tool that clamps down on and cools a roll of fat to freezing temperature.</li>
+				<li>In the weeks after the treatment, your body naturally eliminates the frozen, dead fat cells through your liver. You should begin to see results within a few weeks of your treatment, and final results after a few months.</li>
+				<li>CoolSculpting is a nonsurgical procedure. That means there’s no cutting, stitching, anesthetizing, or recovery time necessary.</li>
+				</P>
 			
 		  
-			<h3>What’s so great about Lasotronix Smart M?</h3>			
-			<p>Lasotronix is the industry leader when it comes to the efficient and portable surgical laser diodes. Developed in Poland, Lasotronix comes with a reputation of providing a long-lasting and high-quality product of European standards. The equipment comes with high precision and advanced technology support from best suppliers across the globe</p>
-			<h4 <a href="">How does CoolSculpting work?</a></h4>
-			<p>CoolSculpting, or cryolipolysis, is a cosmetic treatment that removes excess fat in stubborn areas. It works by freezing fat cells, killing and breaking them down in the process. CoolSculpting is a non-invasive procedure, meaning it does not involve cuts, anesthesia, or instruments entering the body.</p>
+			<h3><a href="">CoolSculpting Results?</a></h3>			
+			<p>CoolSculpting is a non-surgical treatment which makes returning to routine activities an easy process. Though there might be some post treatment symptoms like redness, tenderness, cramping etc. You may see the reduction as early as 3 – 4 weeks from your treatment, with maximum treatment results between 2 – 3 months. The fats cells will continue to be removed for upto 4 – 6 months. The results are in the numbers, with over 7,000,000 treatments done across the world till date, and the only machine of its kind to get US FDA approval.Lasotronix is the industry leader when it comes to the efficient and portable surgical laser diodes. Developed in Poland, Lasotronix comes with a reputation of providing a long-lasting and high-quality product of European standards. The equipment comes with high precision and advanced technology support from best suppliers across the globe.</p>
+			<h4> <a href="">Cool Sculpting Cost?</a></h4>
+			<p>Each person has a unique body and individualized body contouring goals. We do a detailed analysis and based on your expectation will let you know number of cycles required per area. Pricing is generally per cycle and the applicator probe that is being used. We have attractive pricing if you go for multiple cycles.
+
+Book your Free CoolSculpting Assessment Appointment with our doctor today, call +91 77027 52092.</p>
 			
           
 		
@@ -243,9 +283,151 @@
       </div>
     </section>
 	
-	
-	<!-- =========== End About Section =========== -->
+	<!-- =======End CoolSculpting Facts to cost ======= -->
+	<!-- =========== End CoolSculpting Section =========== -->
   
+  
+   <!--========= start Laser Treatment slider ============-->
+  
+  <!-- ======= Breadcrumbs Section ======= -->
+    <section class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h3>Laser Treatment</h3>	
+
+        </div>
+
+      </div>
+    </section>
+	<!-- End Breadcrumbs Section -->
+  
+  
+  
+  <!--start Laser Treatment slider-->
+  <!-- Carousel -->
+  
+  <!--Laser Treatment images and details -->
+	<div class='myDiv'>
+    
+		<h3></h3>
+	</div>
+  
+<div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indicators/dots -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+  </div>
+  
+  <!-- The slideshow/carousel -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/img/gallery/laser2.jpg" alt="Los Angeles"  class="center" style="width:90%">
+      <div class="carousel-caption">       
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/gallery/laser7.jpg" alt="Chicago" class="center" style="width:90%">
+      <div class="carousel-caption">        
+      </div> 
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/gallery/laser8.jpg" alt="New York" class="center" style="width:90%">
+      <div class="carousel-caption">        
+      </div>  
+    </div>
+  </div>
+	<!--============== End slider ========================-->
+    
+	
+	<!-- ======= CoolSculpting & Lasotronix Smart M Section ======= -->
+	
+   
+  <div style="float: left">
+
+</div>
+<div style="display:inline-block;">
+<p>
+</div>
+
+          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3><a href="">What’s so great about Lasotronix Smart M?</a></h3>
+			
+			<h4> <a href=""></a></h4>			
+            <p>Lasotronix is the industry leader when it comes to the efficient and portable surgical laser diodes. Developed in Poland, Lasotronix comes with a reputation of providing a long-lasting and high-quality product of European standards. The equipment comes with high precision and advanced technology support from best suppliers across the globe.</p>
+			<h4> <a href="">Introduction to Lasotronix</a></h4>
+			<P>Lasotronix is the industry leader when it comes to the efficient and portable surgical laser diodes. Developed in Poland, Lasotronix comes with a reputation of providing a long-lasting and high-quality product of European standards. The equipment comes with high precision and advanced technology support from best suppliers across the globe.</P>
+			<h3><a href="">Applications of the Lasotronix Smart M</a></h3>			
+			<p>Lasotronix Smart M laser diode. The best and the most lightweight surgical laser diode to enter the global medical device scene, the Lasotronix Smart M laser diode uses cutting edge technology to perform various medical procedures such as proctological , varicose vein , cosmetic gynaecological ,Lipolysis, ENT, PLDD and so on to obtain the best results in the least amount of time WITH MINIMAL INVASIVE PROCEDURES Using cutting edge laser technology, the Lasotronix Smart M laser diode provides results with least side effects and almost no pain in the post-operative.</p>
+			<h4> <a href="">What Are They?</a></h4>
+			<p>These clumps of veins sometimes stretch when they're under pressure. They may swell or bulge, kind of like varicose veins. This causes what we call hemorrhoids, or piles. They're usually not serious, but they can be unpleasant -- especially if you keep getting them. Hemorrhoids can form externally, around your anus, or internally, in your lower rectum.</p>
+			
+          
+		
+          </div>
+</p>
+</div>
+  
+
+		<!-- ======= =End Laser treatment start ======= -->
+  
+   
+    <section id="" class="">
+      <div class="container-fluid">
+
+        <div class="genmed">
+					<img src="assets/img/gallery/laser4.jpg" alt="general medicines" class="img-thumbnail">
+					<img src="assets/img/gallery/laser5.jpg" alt="general medicines" class="img-thumbnail">
+					
+					</div>
+		
+          <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+            <h3><a href="">Medical Treatment</a></h3>						
+            <p>
+				<li>Piles often clear up on their own but may require treatment or even surgery if the symptoms are severe.&nbsp;<br></li>
+				<li>The treatment of piles varies for internal and external piles.&nbsp;<br></li>
+				<li>Grade one, and two, of internal haemorrhoids, is usually treated with medicine and a planned diet of fibrous non-spicy food. In some cases, the doctors may also prescribe a topical cream.&nbsp;<br></li>
+				<li>Grade three of internal haemorrhoids is also treated with medicine and a change of diet but may require surgical intervention if the symptoms are severe. Treatment of grade four internal piles requires prompt surgical intervention especially if gangrenous tissue is found.&nbsp;<br></li>
+				<li>To treat external piles your doctor might suggest hemorrhoid creams, or ice packs to reduce the swelling. If the case is too severe, the doctor may suggest surgery which can include:&nbsp;<br></li>
+				<ul><li>removal of haemorrhoids</ul></li>
+				<ul><li>using an infrared photo, laser, or electrical coagulation to burn tissue affected by piles.</li><ul>
+				<ul><li>using an infrared photo, laser, or electrical coagulation to burn tissue affected by piles.</ul></li>
+			</p>
+			<h4><a href="">Exercise</a></h4>
+			<P>
+			<p>Exercising can easily reduce the symptoms of piles. You can go for exercises such as:</p>
+				<li>brisk walking.</li>
+				<li>deep breathing exercises.</li>
+				<li>stretching exercises.</li>
+				<li>aerobics.</li>
+				
+				</P>
+			
+		  
+			<h3><a href="">In The Spotlight</h3>			
+			<p>Here are some of the latest news on piles/haemorrhoids from around the world: </p>
+			
+				<p>
+			<li>Piles: Four symptoms of painful haemorrhoids</li>
+			<li>Some tips for help with hemorrhoid pain</li>
+			<li>Hemorrhoids during pregnancy</li>
+			<li>Natural Home Remedies For Blood In Stool, Hemorrhoids</li>
+			<li>Next Gen Pharma Launches Roidosanal for Treatment of Haemorrhoids, Backed with Clinical Studies</li>
+			<li>The piles factor: Youth at increased risk due to sedentary urban life</li>
+			<li>5 everyday habits that are giving you hemorrhoids</li>
+				</p>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+	
+	<!-- ======= End Laser treatment ======= -->
+	<!-- =========== End Laser treatment =========== -->
   
 <!-- Carousel -->
 <div id="demo" class="carousel slide" data-bs-ride="carousel">
@@ -273,8 +455,7 @@
 </div>
 
 <div class="container-fluid mt-3">
-  <h3>Carousel Example</h3>
-  <p>The following example shows how to create a basic carousel with indicators and controls.</p>
+  
 </div>
   
 

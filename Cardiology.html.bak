@@ -132,7 +132,7 @@
                 "brandSetting": {
                     "brandName": "Divya Hospitals",
                     "brandSubTitle": "Your health is our concern!",
-                    "brandImg": "http://ozonehospitals.com/img/Ozone_logo_96X96.jpg",
+                    "brandImg": "assets/img/gallery/customer-support.png",
                     "welcomeText": "Hi! Get in touch with one of our member for more information.",
                     "messageText": "Hello, Can you help me out with some more information?",
                     "backgroundColor": "#4dc247",
@@ -250,8 +250,7 @@
                           </div>
                        </div>
                       </div>
-                     <div class="single_doctor item element-item text-center kothapet">
-                   <div class="img-box1">
+                     
                   <div class="parent">
                  <!--< End animi doctor src="assets/img/doctors/doctor-animi.png" />-->   
 		</div>
