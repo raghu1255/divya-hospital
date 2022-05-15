@@ -43,8 +43,7 @@
   <div id="topbar" class="d-flex align-items-center fixed-top">
     <div class="container d-flex justify-content-between">
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-envelope"></i> <a href="mailto:contact@example.com">divyahospital.shadnagar@gmail.com</a>
-        <i class="bi bi-phone"></i> +91 93475 87795
+        <p class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment +91 77027 52092</p>
       </div>
       <div class="d-none d-lg-flex social-links align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -85,21 +84,7 @@
 
 	<!--coolSculping images and details -->
 
-    <section class="inner-page">
-      <div class="container">
-        <p>
-          What is CoolSculpting?
-        </p>
-		
-		<h3>CoolSculpting is a branded form of fat reduction method called cryolipolysis. It has Food and Drug Administration (FDA) approval. As with other forms of cryolipolysis, it uses freezing temperatures to break down fat cells. Fat cells are more affected by cold temperatures than other cells. This means that the cold does not damage other cells, such as the skin or underlying tissue. During the procedure, the practitioner vacuums the skin above the area of fatty tissue into an applicator that cools the fat cells. The cold temperatures numb the site, and some people report feeling a cooling sensation. Most CoolSculpting procedures take around 35–60 minutes, depending on the area a person wishes to target. There is no downtime because there is no damage to the skin or tissue. Some people report soreness at the site of CoolSculpting, similar to that they might have after an intense workout or minor muscle injury. Others report stinging, firmness, mild discoloration, swelling, and itchiness.</h3>
-		
-		
-		
-		
-      </div>
-    </section>
-
-  </main><!-- End #main -->
+    
   
    <!-- ======= CoolSculpting & Lasotronix Smart M Section ======= -->
     <section id="about" class="about">

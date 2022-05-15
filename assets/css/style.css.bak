@@ -656,7 +656,7 @@ section {
   transition: 0.5s;
 }
 .animifat .icon-box .icon {
-  float: left;
+  float: right;
   display: flex;
   align-items: center;
   justify-content: center;
